@@ -1,0 +1,40 @@
+body{
+	font-family: sans-serif;
+	background: #40739e;
+}
+textarea{
+	resize: none;
+	margin: 50px 0;
+	padding: 5px;
+	width: 80%;
+	border-radius: 10px;
+}
+.container{
+	width: 50%;
+	height: 80vh;
+	padding:50px; 
+	text-align: center;
+	background:#FFF;
+	margin: 0 auto;
+	border-radius: 10px;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.container h1{
+	 color: #40739e;
+}
+button{
+	border: none;
+	background: #40739e;
+	padding:5px 15px; 
+	color:#fff;
+	font-weight: 600;
+	border-radius: 25px;
+}
+a{
+	color:#40739e;
+	text-decoration: none;
+	font-weight: bold;
+}
